@@ -21,3 +21,9 @@ hr{color: black; border-style: solid;}
 .leadership{
         font-size: 1rem;
 }
+.main{
+    font-weight: 600;
+}
+.sub{
+    font-weight: 400;
+}
